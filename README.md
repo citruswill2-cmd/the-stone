@@ -1,2 +1,5 @@
-# the-stone
-THE STONE — first lockup for people starting a business, plus a cream proof that bills other live websites. REDLINE first-draft, client-owned single HTML.
+# THE STONE
+
+REDLINE first-draft. Client-owned single HTML.
+
+Drop `index.html` at the root of a Vercel project. No build step.
